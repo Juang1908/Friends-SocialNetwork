@@ -1,0 +1,26 @@
+{
+  "name": "friends-socialnetwork",
+  "version": "1.0.0",
+  "description": "Social Network Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node utils/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juang1908/Friends-SocialNetwork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juang1908/Friends-SocialNetwork/issues"
+  },
+  "homepage": "https://github.com/Juang1908/Friends-SocialNetwork#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.1"
+  }
+}
