@@ -62,7 +62,7 @@ https://github.com/Juang1908
 ![MongoDB](Screenshot%203.jpg)
 ![MongoDB](Screenshot%204.jpg)
 
-[Video-Walkthrough-HERE](Challenge%2018.webm)
+[Video-Walkthrough-HERE](https://user-images.githubusercontent.com/112872430/225989923-536ce380-7fec-4b63-b471-fd5ce2165b0c.webm)
 
 ### License:
 
